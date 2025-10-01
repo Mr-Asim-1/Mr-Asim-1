@@ -6,14 +6,17 @@
 
 <img align="right" alt="coding" width="240" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MHk5aTFkYjNzcmdtempvc3ZheWdwczI3amZmZmI4engxcjE1ZnEwciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bJ4TVNYNUympPgcpem/giphy.gif">
 
-- 👨‍💻 All of my projects are available at [https://github.com/MuhammadAsim0909/IDM-Trial-Reset](https://github.com/MuhammadAsim0909/IDM-Trial-Reset)
+- 👨‍💻 All of my projects are available at
+- https://github.com/Mr-Asim-1?tab=repositories
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  
 <a href="https://fb.com/muhammedasim0909" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammedasim0909" height="30" width="40" /></a>
 <a href="https://instagram.com/muhammadasim.6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammadasim.6" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/respect world 90+" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="respect world 90+" height="30" width="40" /></a>
 <a href="https://discord.gg/asim_76895" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="asim_76895" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

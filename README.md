@@ -4,10 +4,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mr-Asim-1&label=Profile%20views&color=0e75b6&style=flat" alt="Mr-Asim-1" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-asim-1" alt="mr-asim-1" /></a> </p>
+
 <img align="right" alt="coding" width="240" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MHk5aTFkYjNzcmdtempvc3ZheWdwczI3amZmZmI4engxcjE1ZnEwciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bJ4TVNYNUympPgcpem/giphy.gif">
 
 - 👨‍💻 All of my projects are available at
-- https://github.com/Mr-Asim-1?tab=repositories
+-  https://github.com/Mr-Asim-1?tab=repositories
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,3 +30,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mr-Asim-1&show_icons=true&locale=en" alt=Mr-Asim-1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dokimkhanh&" alt="mr-asim-1" /></p>
+
+![bottom.png](https://i.loli.net/2020/07/12/b3grZD6LFseGuUP.png)
+
